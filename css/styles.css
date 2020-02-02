@@ -62,6 +62,17 @@ p {
         position:static;
         transform : rotate(0);
     }
+    
+    .cardHeader {
+    margin:0;
+    padding:1% 0.625% 1%;
+    }
+    
+    .price-text {
+    font-size: 1.8rem;
+    line-height: 1.5;
+    }
+
 }
 
 
